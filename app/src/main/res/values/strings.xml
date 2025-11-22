@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PixelInvite</string>
+    <string name="from_king_arthur">From King Arthur</string>
+    <string name="invitation_title">Royal Decree!</string>
 </resources>
